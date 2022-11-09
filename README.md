@@ -17,18 +17,18 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:nicolasfsa10@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=nicolasfsa10@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="nicolas-max-81147017" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nicolas-max-81147017a" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="api.whatsapp.com/send?phone=5561996599998&text=Ol%C3%A1%2C%20tudo%20bem%3F%20Consegui%20seu%20contato%20no%20GitHub%20e%20a%20minha%20d%C3%BAvida%20%C3%A9%3A" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&https://api.whatsapp.com/send?phone=5561996599998&text=Ol%C3%A1%2C%20tudo%20bem%3F%20Consegui%20seu%20contato%20no%20GitHub%20e%20a%20minha%20d%C3%BAvida%20%C3%A9%3A"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/nicolas.max.3367" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nicolas.max.3367"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/_nicolasmax_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_nicolasmax_/"/></a>
 </p>  
